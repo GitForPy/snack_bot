@@ -1,0 +1,10 @@
+aiogram
+langchain
+chromadb
+docx2txt
+nest_asyncio
+langchain_chroma
+langchain_openai
+langchain_core
+langchain_community
+langchain_gigachat
